@@ -1,0 +1,20 @@
+{
+    "name": "daydream/daydream-helper",
+    "description": "helper function for daydream framework",
+    "type": "library",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daydream\\DaydreamHelper\\": "deydream-helper/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CyxsC",
+            "email": "3559849342@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
